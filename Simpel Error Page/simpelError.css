@@ -90,6 +90,7 @@ nav button {
   box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   cursor: pointer;
+  font-size: 12px;
 }
 
 button:hover {
@@ -114,7 +115,7 @@ button:hover {
     width: 90%;
   }
   .page-not-found img {
-    height: 120px;
+    height: auto;
   }
   .page-not-found h1 {
     font-size: 1.4rem;
